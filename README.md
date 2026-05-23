@@ -1,4 +1,4 @@
-# Đếm sản phẩm trên băng tải
+# Xác định góc xoay của chấu
 
 ## Features
 - Xác định vùng an toàn trên mâm 3 chấu để  robot gắp phôi kim loại ra.
